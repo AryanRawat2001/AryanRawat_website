@@ -59,6 +59,9 @@ hr{
     padding: 0rem 0.5rem;
 }
 
+.list-center{
+    text-align: center;
+}
 /* nav  */
 
 .navigation {
@@ -83,7 +86,8 @@ hr{
 
 .navigation .nav-brand{
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
+    
 }
 
 .navigation .link-active{
@@ -95,6 +99,7 @@ hr{
 
 .hero {
     padding: 2rem ;
+    padding-top: 5rem;
     
 }
 
@@ -102,6 +107,7 @@ hr{
     max-width: 350px;
     display: block;
     margin: auto;
+    
 }
 
 .hero .hero-heading {
@@ -118,7 +124,7 @@ hr{
 /* sections  */
 
 .section{
-    padding: 2rem;
+    padding: 3rem;
 }
 .section h1 {
     text-align: center;
@@ -141,4 +147,13 @@ hr{
 
 .footer .link {
     color: white;
+}
+
+.footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.paragraph-gap{
+    padding-bottom: 1rem;
 }
