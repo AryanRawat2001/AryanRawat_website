@@ -31,6 +31,7 @@ hr{
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
+
     
 }
 .link-primary {
@@ -143,6 +144,7 @@ hr{
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    
 }
 
 .footer .link {
@@ -151,9 +153,11 @@ hr{
 
 .footer-header {
     font-weight: bold;
-    font-size: large;
+    font-size:larger;
+    color: black;
 }
 
 .paragraph-gap{
     padding-bottom: 1rem;
 }
+
